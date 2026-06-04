@@ -94,8 +94,11 @@ title("Received Power vs Radar Range")
 
 ```
 
-## Output
+## TABULATION
 
+<img width="991" height="1600" alt="image" src="https://github.com/user-attachments/assets/23868ac1-4c0d-49d8-a063-97326ad86163" />
+
+## Output
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/157cbc19-9d2b-4f84-9074-b793768a5a2e" />
 
 
